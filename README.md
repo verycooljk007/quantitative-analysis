@@ -11,9 +11,9 @@ A collection of custom indicators, strategies, and utilities written in Pine Scr
 ## 🚀 Featured Scripts
 
 ### 1. To be added
-- **Type:** 
-- **Description:** 
-- **Key Features:** 
+- **Type:** Listcheck
+- **Description:** Checks and verifies tickers found in list from csv file.
+- **Key Features:** Lists how many tickers, list tickers name and price in addition to what ticker
 
 ## 🛠 Installation & Usage TradingView
 
