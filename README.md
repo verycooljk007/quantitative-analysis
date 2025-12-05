@@ -1,6 +1,6 @@
 # Quantitative Analysis Library
 
-A collection of custom indicators, strategies, and utilities written in Pine Script (v5) for the TradingView platform. I also include Python scripts as well.
+A collection of custom indicators, strategies, and utilities written in various computer languages. Its mainly python.
 
 ## 📂 Repository Structure
 
@@ -10,10 +10,20 @@ A collection of custom indicators, strategies, and utilities written in Pine Scr
 
 ## 🚀 Featured Scripts
 
-### 1. To be added
+### 1. Listcheck
 - **Type:** Listcheck
 - **Description:** Checks and verifies tickers found in list from csv file.
 - **Key Features:** Lists how many tickers, list tickers name and price in addition to what ticker
+
+### 2. Leaderboards
+- **Type:** Establish top gainers, and establish top loosers (based on daily return)
+- **Description:** Establish top gainers, and establish top loosers (based on daily return)
+- **Key Features:** On checks in the daily time zone, can run as part of daily tasks
+
+### 3. SP500
+- **Type:** CSV File
+- **Description:** Carries a list of stocks in $SPY ETF as of November 2025
+- **Key Features:** You can simply use this list to filter the market
 
 ## 🛠 Installation & Usage TradingView
 
